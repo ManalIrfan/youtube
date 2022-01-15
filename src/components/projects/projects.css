@@ -1,0 +1,19 @@
+.p{
+    padding: 50px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.p-title{
+    font-size: 2.5em;
+    font-weight: 600;
+}
+
+.p-list{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
